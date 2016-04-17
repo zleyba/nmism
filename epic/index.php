@@ -18,17 +18,23 @@
 		<div class="container">
 			<div class="row">
 				<h1>NMISM</h1>
-				<div class="col-sm-2 past">
+				<div class="col-sm-2">
 					<h2>Past Events</h2>
-					<p>this is a past event</p>
+					<div class="past">
+						<p>Yr blue bottle quinoa, freegan occupy tofu chia four loko williamsburg cardigan poutine seitan waistcoat keffiyeh. Tilde yr polaroid, mlkshk street art gastropub man bun readymade asymmetrical. Taxidermy scenester XOXO, swag tumblr readymade photo booth dreamcatcher locavore fingerstache tattooed venmo cornhole. Pickled retro pork belly, salvia mustache tumblr meditation ennui. Messenger bag meh knausgaard direct trade. Blog skateboard mixtape next level fashion axe. Sustainable readymade heirloom before they sold out, jean shorts waistcoat forage small batch.</p>
+
+					</div>
 				</div>
-				<div class="col-sm-6 news">
+				<div class="col-sm-6">
 					<h2>Welcome</h2>
-					<p>Hello World</p>
-				</div>
-				<div class="col-sm-4 widgets">
+						<div class="news">
+							<p>Yr blue bottle quinoa, freegan occupy tofu chia four loko williamsburg cardigan poutine seitan waistcoat keffiyeh. Tilde yr polaroid, mlkshk street art gastropub man bun readymade asymmetrical. Taxidermy scenester XOXO, swag tumblr readymade photo booth dreamcatcher locavore fingerstache tattooed venmo cornhole. Pickled retro pork belly, salvia mustache tumblr meditation ennui. Messenger bag meh knausgaard direct trade. Blog skateboard mixtape next level fashion axe. Sustainable readymade heirloom before they sold out, jean shorts waistcoat forage small batch.</p>
+						</div>
+					</div>
+				<div class="col-sm-3">
 				<h2>Join The Action</h2>
-				<p>this will be a social media plug in</p>
+				<div class="widgets">
+					<p>Yr blue bottle quinoa, freegan occupy tofu chia four loko williamsburg cardigan poutine seitan waistcoat keffiyeh. Tilde yr polaroid, mlkshk street art gastropub man bun readymade asymmetrical. Taxidermy scenester XOXO, swag tumblr readymade photo booth dreamcatcher locavore fingerstache tattooed venmo cornhole. Pickled retro pork belly, salvia mustache tumblr meditation ennui. Messenger bag meh knausgaard direct trade. Blog skateboard mixtape next level fashion axe. Sustainable readymade heirloom before they sold out, jean shorts waistcoat forage small batch.</p>
 				</div>
 			</div>
 		</div>
