@@ -18,8 +18,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-6 col-sm-3">
-				<img class=logo" src="img/logo.svg">
+				<img class="logo" src="img/logo.svg">
 				</div>
+
 				<div class="col-xs-6 col-sm-9">
 
 					<nav class="navbar navbar-default">
@@ -56,30 +57,59 @@
 
 							</div><!-- /.navbar-collapse -->
 						</div><!-- /.container-fluid -->
+
 					</nav>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-sm-3">
+				<div id="firstcol">
+				<p>NMISM.com, New Mexico's Premier Fighting Game Organization</p>
+				</div>
 
-				<div id="firstcol" class="col-sm-3">
 					<h2><em>Past Events</em></h2>
 					<div class="past">
 						<p>Yr blue bottle quinoa, freegan occupy tofu chia four loko williamsburg cardigan poutine seitan waistcoat keffiyeh. Tilde yr polaroid, mlkshk street art gastropub man bun readymade asymmetrical. Taxidermy scenester XOXO, swag tumblr readymade photo booth dreamcatcher locavore fingerstache tattooed venmo cornhole. Pickled retro pork belly, salvia mustache tumblr meditation ennui. Messenger bag meh knausgaard direct trade. Blog skateboard mixtape next level fashion axe. Sustainable readymade heirloom before they sold out, jean shorts waistcoat forage small batch.</p>
 
+
+					</div>
+
+			</div>
+
+				<div class="col-xs-6 col-sm-9">
+					<div class="jumbotron">
+
+						<div class="container">
+							<h1>NMISM Weeklies</h1>
+							<p>Here are all the events<br>
+								that our community hosts every week</em></p>
+							<!--							<p><a class="btn btn-primary btn-lg" href="#" role="button">My Behance</a></p>-->
+						</div>
 					</div>
 				</div>
-				<div class="col-sm-5">
+<!--				<div class="col-sm-3">-->
+<!---->
+<!--					-->
+<!--				</div>-->
+
+
+
+
+				<div class="col-sm-6 headline">
 					<h2><em>Welcome</em></h2>
 						<div class="news">
+							<img class="img-responsive" src="img/freevoFB.jpg">
 							<p>Yr blue bottle quinoa, freegan occupy tofu chia four loko williamsburg cardigan poutine seitan waistcoat keffiyeh. Tilde yr polaroid, mlkshk street art gastropub man bun readymade asymmetrical. Taxidermy scenester XOXO, swag tumblr readymade photo booth dreamcatcher locavore fingerstache tattooed venmo cornhole. Pickled retro pork belly, salvia mustache tumblr meditation ennui. Messenger bag meh knausgaard direct trade. Blog skateboard mixtape next level fashion axe. Sustainable readymade heirloom before they sold out, jean shorts waistcoat forage small batch.</p>
 						</div>
 					</div>
-				<div class="col-sm-2">
-				<h2><em>Join The Action</em></h2>
-				<div class="widgets">
+				<div class="col-sm-3" id="thirdcol">
+					<h2><em>Join The Action</em></h2>
+					<div class="widgets">
 					<p>Yr blue bottle quinoa, freegan occupy tofu chia four loko williamsburg cardigan poutine seitan waistcoat keffiyeh. Tilde yr polaroid, mlkshk street art gastropub man bun readymade asymmetrical. Taxidermy scenester XOXO, swag tumblr readymade photo booth dreamcatcher locavore fingerstache tattooed venmo cornhole. Pickled retro pork belly, salvia mustache tumblr meditation ennui. Messenger bag meh knausgaard direct trade. Blog skateboard mixtape next level fashion axe. Sustainable readymade heirloom before they sold out, jean shorts waistcoat forage small batch.</p>
 				</div>
 			</div>
 		</div>
+
 		<footer>
 			NMISM &copy; 2016
 		</footer>
